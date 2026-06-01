@@ -46,17 +46,33 @@
 
 ## 🚀 Featured Projects
 
-### FindIt
-Campus Lost & Found Management System built with React, Vite, Tailwind CSS and Supabase.
+### 🔍 FindIt
+Campus Lost & Found Management System
 
-### BloodHub
-Blood Donation Management System developed as a collaborative Java project.
+🔗 https://github.com/leeza980/Findit
 
-### PawHome
-Pet Adoption Platform.
+### 🩸 BloodHub
+Blood Donation Management System
+
+🔗 https://github.com/AkritiStha/ClashAThon-BloodyMary-BloodHub
+
+### 🐾 PawHome
+Pet Adoption Platform
+
+🔗 https://github.com/Supremeeeeee-max/PawHome
 
 ---
+
+## 📊 GitHub Stats
+
+![Liza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeza980&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leeza980&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=leeza980&theme=tokyonight)
 
 ## 📫 Contact
 
 GitHub: https://github.com/leeza980
+
+
