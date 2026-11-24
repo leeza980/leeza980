@@ -12,10 +12,8 @@
 
 ## 👩 About Me
 
-- 🎓 BSc (Hons) Computing – 2nd Year Student
+- 🎓 BSc (Hons) Computing – Student
 - 💻 Interested in Software Engineering and Full-Stack Development
-- 🚀 Creator of FindIt – Campus Lost & Found System
-- 🤝 Collaborator on BloodHub – Blood Donation Management System
 - 📚 Continuously learning modern web technologies
 
 ---
